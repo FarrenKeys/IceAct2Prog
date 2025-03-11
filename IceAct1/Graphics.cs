@@ -59,5 +59,13 @@ namespace IceAct1
             Console.WriteLine("    ⠁⠚⠓⠶⢤⡒⠄         ⠈⢆⡀     ");
             Console.WriteLine("        ⠈⡇            ⠈⠁    ");
         }
+
+        public static void CUstomer()
+        {
+
+            Console.Clear();
+            Console.ForegroundColor= ConsoleColor.DarkRed;
+
+        }
     }
 }

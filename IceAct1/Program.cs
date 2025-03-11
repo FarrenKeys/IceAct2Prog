@@ -21,7 +21,7 @@ namespace IceAct1
             Game.PrintWithColor(synth, "Welcome to Farren's Ultimate Food Adventure!", ConsoleColor.White);
 
             // Start the food adventure
-            Song.PlayIntro();
+            
             Game.StartAdventure(synth);
 
             // Farewell message
